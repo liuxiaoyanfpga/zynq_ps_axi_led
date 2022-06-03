@@ -4,7 +4,7 @@
 
 图中是
 
-<img src="image/image-20220531213825547.png" alt="image-20220531213825547" style="zoom:33%;" />
+<img src="image/image-20220603205600528.png" alt="image-20220603205600528" style="zoom:67%;" />
 
 使用C或者C++编写控制程序，然后综合成一个IP核，因此，核心的部分是使用C写出控制程序，然后与已有的IP核进行通信。
 
